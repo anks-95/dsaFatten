@@ -1,10 +1,22 @@
-/.*    @anks-95
-*.go    @anks-95
-*.cpp    @anks-95
-*.c    @anks-95
-*.js    @anks-95
-*.py    @anks-95
-*.html    @anks-95
-*.css    @anks-95
-
-*.md    @anks-95
+# Assign @anks-95 as the owner for all files
+/.*        @anks-95
+# All Go files
+*.go       @anks-95
+# C++ files
+*.cpp      @anks-95
+# C files
+*.c        @anks-95
+# JavaScript files
+*.js       @anks-95
+# Python files
+*.py       @anks-95
+# HTML files
+*.html     @anks-95
+# CSS files
+*.css      @anks-95
+# Markdown files
+*.md       @anks-95
+# YAML or JSON files (optional if used)
+*.yaml     @anks-95
+*.yml      @anks-95
+*.json     @anks-95
